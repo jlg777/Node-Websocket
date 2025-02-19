@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "08.node-websockets",
   "version": "1.0.0",
@@ -14,3 +15,21 @@
     "ws": "^8.18.0"
   }
 }
+=======
+{
+  "name": "08.node-websockets",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
+>>>>>>> f5c4b39089c636d9fc78ff6ff8996c8e6a0d7ab6
